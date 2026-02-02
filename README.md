@@ -117,3 +117,11 @@ The approach prioritizes <b>business understanding and interpretability</b> over
   <li>matplotlib</li>
   <li>gradio</li>
 </ul>
+
+<h2>📷 Interface Preview</h2>
+<p>
+Below is a preview of the interactive Gradio interface used to simulate customer credit scenarios
+and generate real-time predictions.
+</p>
+
+<img src="images/gradio_interface.png" alt="Credit Scoring Interface" width="800"/>
