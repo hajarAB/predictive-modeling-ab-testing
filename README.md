@@ -124,4 +124,4 @@ Below is a preview of the interactive Gradio interface used to simulate customer
 and generate real-time predictions.
 </p>
 
-<img src="images/gradio_interface.png" alt="Credit Scoring Interface" width="800"/>
+<img src="images/interface.png" alt="Credit Scoring Interface" width="800"/>
